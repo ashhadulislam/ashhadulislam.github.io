@@ -103,7 +103,7 @@ body {
     font-weight: 400;
     font-size: 16px;
     line-height: 32px;
-    color: #8790af;
+    color: #ca4889;
 }
 
 
@@ -295,11 +295,15 @@ input:-webkit-autofill:focus {
 }
 
 .dark-color {
-    color: #434345
+    color: #712149
 }
 
 .blue-color {
     color: #5e88fc;
+}
+
+.app-theme-color {
+    color: #8d1b3d;
 }
 
 .white-color {
@@ -308,6 +312,10 @@ input:-webkit-autofill:focus {
 
 .gray-bg {
     background-color: #f5f6ff;
+}
+
+.white-bg {
+    background-color: #ffffff;
 }
 
 /*-- 5. MainMenu-Area --*/
@@ -334,7 +342,7 @@ input:-webkit-autofill:focus {
     height: 100%;
     background: rgb(72, 44, 191);
 
-    
+
     /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#c146a1+38,c146a1+38,cb60b3+82,db36a4+93 */
     background: #c146a1; /* Old browsers */
     background: -moz-linear-gradient(left,  #c146a1 38%, #c146a1 38%, #cb60b3 82%, #db36a4 93%); /* FF3.6-15 */
