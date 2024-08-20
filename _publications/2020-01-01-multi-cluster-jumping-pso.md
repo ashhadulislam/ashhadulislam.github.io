@@ -6,7 +6,7 @@ permalink: /publication/2020-01-01-multi-cluster-jumping-pso
 excerpt: 'This paper introduces the Multi-Cluster Jumping Particle Swarm Optimization (PSO) algorithm, designed to address the limitations of classical PSO by improving convergence speed and avoiding local minima, particularly in high-dimensional data spaces.'
 date: 2020-01-01
 venue: 'IEEE Access'
-slidesurl: 'http://academicpages.github.io/files/slides_multi_cluster_jumping_pso.pdf'
+slidesurl: 'http://ashhadulislam.github.io/files/slides_multi_cluster_jumping_pso.pdf'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9223747'
 citation: 'Rehman, A. U., Islam, A., & Belhaouari, S. B. (2020). &quot;Multi-Cluster Jumping Particle Swarm Optimization for Fast Convergence.&quot; <i>IEEE Access</i>, 8, 189382--189394. https://doi.org/10.1109/ACCESS.2020.3031003'
 ---

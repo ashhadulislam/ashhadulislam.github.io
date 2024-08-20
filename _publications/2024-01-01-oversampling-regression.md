@@ -6,7 +6,7 @@ permalink: /publication/2024-01-01-oversampling-regression
 excerpt: 'This paper discusses novel oversampling techniques tailored specifically for handling imbalanced data in regression tasks. These methods improve predictive accuracy by addressing issues unique to regression models, such as skewed distributions and variance within minority data points.'
 date: 2024-01-01
 venue: 'Expert Systems with Applications'
-slidesurl: 'http://academicpages.github.io/files/slides_oversampling_regression.pdf'
+slidesurl: 'http://ashhadulislam.github.io/files/slides_oversampling_regression.pdf'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0957417424009849'
 citation: 'Belhaouari, S. B., Islam, A., Kassoul, K., Al-Fuqaha, A., & Bouzerdoum, A. (2024). &quot;Oversampling Techniques for Imbalanced Data in Regression.&quot; <i>Expert Systems with Applications</i>, 252, 124118. https://doi.org/10.1016/j.eswa.2024.124118'
 ---

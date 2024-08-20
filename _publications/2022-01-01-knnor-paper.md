@@ -6,7 +6,7 @@ permalink: /publication/2022-01-01-knnor-paper
 excerpt: 'This paper introduces KNNOR, a novel oversampling technique that addresses class imbalance in datasets. The method focuses on enhancing the predictive performance of ML models by ensuring a more reliable augmentation of the minority class, overcoming issues such as within-class imbalance and the small disjunct problem.'
 date: 2022-01-01
 venue: 'Applied Soft Computing'
-slidesurl: 'http://academicpages.github.io/files/slides_knnor.pdf'
+slidesurl: 'http://ashhadulislam.github.io/files/slides_knnor.pdf'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S1568494621010942'
 citation: 'Islam, A., Belhaouari, S. B., Rehman, A. U., & Bensmail, H. (2022). &quot;KNNOR: An Oversampling Technique for Imbalanced Datasets.&quot; <i>Applied Soft Computing</i>, 115, 108288. https://doi.org/10.1016/j.asoc.2021.108288'
 ---

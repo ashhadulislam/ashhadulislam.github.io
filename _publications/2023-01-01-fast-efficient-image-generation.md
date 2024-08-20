@@ -6,7 +6,7 @@ permalink: /publication/2023-01-01-fast-efficient-image-generation
 excerpt: 'This paper presents a novel method for generating artificial images by combining Variational Autoencoders (VAEs) with the K-Nearest Neighbor OveRsampling (KNNOR) approach. The technique addresses common issues in Generative Adversarial Networks (GANs), such as mode collapse and distortion, producing more realistic and efficient image generation.'
 date: 2023-01-01
 venue: 'IEEE Access'
-slidesurl: 'http://academicpages.github.io/files/slides_fast_image_generation.pdf'
+slidesurl: 'http://ashhadulislam.github.io/files/slides_fast_image_generation.pdf'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10076456'
 citation: 'Islam, A., & Belhaouari, S. B. (2023). &quot;Fast and Efficient Image Generation Using Variational Autoencoders and K-Nearest Neighbor OveRsampling Approach.&quot; <i>IEEE Access</i>, 11, 28416--28426. https://doi.org/10.1109/ACCESS.2023.3259236'
 ---

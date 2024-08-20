@@ -6,7 +6,7 @@ permalink: /publication/2022-01-01-knnor-python-package
 excerpt: 'This paper introduces the K Nearest Neighbor OveRsampling (KNNOR) algorithm, a novel data augmentation technique implemented as an open-source Python package. The algorithm addresses the challenges of imbalanced datasets by generating artificial data points that enhance classifier accuracy without adding noise.'
 date: 2022-01-01
 venue: 'Software Impacts'
-slidesurl: 'http://academicpages.github.io/files/slides_knnor_python_package.pdf'
+slidesurl: 'http://ashhadulislam.github.io/files/slides_knnor_python_package.pdf'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S2665963822000288'
 citation: 'Islam, A., Belhaouari, S. B., Rehman, A. U., & Bensmail, H. (2022). &quot;K Nearest Neighbor OveRsampling Approach: An Open Source Python Package for Data Augmentation.&quot; <i>Software Impacts</i>, 12, 100272. https://doi.org/10.1016/j.simpa.2022.100272'
 ---
