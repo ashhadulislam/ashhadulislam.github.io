@@ -2,7 +2,7 @@
 title: "Deep Fake Detection Using CNN"
 collection: teaching
 type: "Personal Course"
-permalink: /teaching/2024-teaching-Deef-Fake_detection-Using-CNN
+permalink: /teaching/2024-teaching-Deep-Fake-detection-Using-CNN
 venue: "Remote"
 date: 2024-10-01
 location: "Doha, Qatar"
