@@ -8,6 +8,7 @@ date: 2022-08-01
 location: "Doha, Qatar"
 ---
 
+
 ## Machine Learning Course Support
 
 In this role, I provided comprehensive support for the Machine Learning course by conducting tutorials and overseeing exams through invigilation. 
