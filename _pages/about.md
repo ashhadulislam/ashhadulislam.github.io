@@ -47,8 +47,14 @@ My journey has been a dynamic interplay between the rigor of academia and the pr
 
 ### Post-PhD Work
 
+- **Postdoctoral Researcher - KTH Royal Institute Of Technology, Stockholm, Sweden**  
+  Guiding and advising research teams, including PhD scholars and Master’s students, and collaborating with industry partners. My work includes:
+  - Symbolic regression for modeling lung pressure and ventilator dynamics.
+  - Combining physiological modeling and machine learning to develop patient-specific optimization strategies for mechanical ventilation.
+  - Enhance precision medicine in critical care.
+
 - **Postdoctoral Researcher - Hamad Bin Khalifa University, Doha, Qatar**  
-  Currently, I am guiding and advising research teams, including PhD scholars and Master’s students, and collaborating with industry partners. My work includes:
+  Guiding and advising research teams, including PhD scholars and Master’s students, and collaborating with industry partners. My work includes:
   - Evolving my algorithm for oversampling data from classification to regression, which was published in *Expert Systems with Applications* this year.
   - Applying neural network pruning and optimization methods to small LLMs, aiming to reduce model size without losing accuracy.
   - Building an intra-university RAG-based LLM chatbot with a knowledge base of around 32,000 articles and 250 ebooks, now actively used by university researchers.
